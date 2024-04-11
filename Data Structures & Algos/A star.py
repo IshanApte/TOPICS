@@ -1,4 +1,4 @@
-
+#a python program to carryouy A star on a graph that is in the form of 2d array
 class Node():
     """A node class for A* Pathfinding"""
 
